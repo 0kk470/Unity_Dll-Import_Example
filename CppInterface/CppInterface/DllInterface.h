@@ -4,7 +4,7 @@
 #include<iostream>
 #define _DllExport _declspec(dllexport)
 
-#define UnityLog(acStr)  char acLogStr[512] = { 0 }; sprintf_s(acLogStr, "%s",acStr); Debug:Log(acLogStr,strlen(acStr));
+#define UnityLog(acStr)  char acLogStr[512] = { 0 }; sprintf_s(acLogStr, "%s",acStr); Debug::Log(acLogStr,strlen(acStr));
 
 
 extern "C"

@@ -1,2 +1,4 @@
-﻿    正在创建库 ..\..\UnityProject\Assets\Plugins\x86_64\CppInterface.lib 和对象 ..\..\UnityProject\Assets\Plugins\x86_64\CppInterface.exp
+﻿  DllInterface.cpp
+e:\unity2017.4.14f1\project\cppcaller\cppinterface\cppinterface\dllinterface.cpp(7): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+e:\unity2017.4.14f1\project\cppcaller\cppinterface\cppinterface\dllinterface.cpp(15): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   CppInterface.vcxproj -> E:\Unity2017.4.14f1\Project\CppCaller\CppInterface\CppInterface\..\..\UnityProject\Assets\Plugins\x86_64\CppInterface.dll
