@@ -1,0 +1,4 @@
+﻿  DllInterface.cpp
+e:\unity2017.4.14f1\project\cppcaller\cppinterface\cppinterface\dllinterface.cpp(8): warning C4102: “Debug”: 未引用的标签
+    正在创建库 ..\..\UnityProject\Assets\Plugins\x86\CppInterface.lib 和对象 ..\..\UnityProject\Assets\Plugins\x86\CppInterface.exp
+  CppInterface.vcxproj -> E:\Unity2017.4.14f1\Project\CppCaller\CppInterface\CppInterface\..\..\UnityProject\Assets\Plugins\x86\CppInterface.dll
